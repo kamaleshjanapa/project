@@ -1,0 +1,12 @@
+a=5
+b="CSEDS"
+c=3.256
+d=True
+e=4,20
+f=10+5j
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
